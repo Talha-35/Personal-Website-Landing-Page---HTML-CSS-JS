@@ -5,6 +5,14 @@
 It is a personal website home page work to repeat Html, Css and JavaScript topics.
 
 
+## These are short promotional photos about this app
+
+
+<img src= "./images/read1.png" width =400 > <img src= "./images/read2.png" width =400 >
+<img src= "./images/read3.png" width =400 > <img src= "./images/read4.png" width =400 >
+
+
+
 ### At the end of the project, following topics are to be covered;
 
 - HTML
@@ -19,7 +27,7 @@ It is a personal website home page work to repeat Html, Css and JavaScript topic
 
 $ git clone https://github.com/Talha-35/Personal-Website-Landing-Page---HTML-CSS-JS.git
 
-$ start
+$ Open with Live Server
 ```
 
 
