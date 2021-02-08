@@ -4,3 +4,42 @@
     margin: 0 auto;
 }
 
+   /* EDUCATİON */
+
+   .educations-container .educations .education{
+    flex-direction: column;
+  }
+
+  
+.educations-container {
+    text-align: justify;
+    margin: 0 auto;
+}
+
+
+.educations-container .educations .education .image img{
+      margin: 0 10%;
+    width: 70%;
+    height: 220px;
+}
+
+.educations-container .educations .education .container-title .title{
+     margin-top: 1rem;     
+     margin-left: 10%;
+     margin-right: 10%;
+     
+    }
+    
+    .educations-container .educations .education .container-title .desc{
+     margin: 0 10%;
+}
+
+.educations-container .educations .education .container-title .author{
+    margin: 1rem 10%;
+    }
+   /* FOOTER */
+
+  
+   .footer .footer-container .input-container{
+    padding: 0 10%;
+  }
